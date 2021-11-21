@@ -47,3 +47,6 @@ Agar dapat memprediksi kucing atau anjing, data input model harus mengikuti form
 1. Anda akan diberikan URL untuk membuka website berupa `localhost:5000/` atau `127.0.0.1:5000/`.
 1. Buka URL dengan browser, coba masukkan gambar kucing atau anjing yang ingin di prediksi.
 1. Anda akan diberikan prediksi bahwa pada gambar tersebut terdapat kucing atau anjing pada halaman website.
+
+Deploy Results
+https://imageclassification-app.herokuapp.com/
